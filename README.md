@@ -5,7 +5,7 @@
 - 🎓- Semestre 2023.1
 - 🧠- Futuro engenheiro de software
 - 💻- Apaixonado por tecnologia
-- ⚔️- Gosto muito de Jogos
+- ⚔️- Desejo futuramente criar jogos
 - 🏹- Gosto muito de desenhar
 - 🎶- músicas
 
