@@ -18,7 +18,7 @@
 <div>
 
 ##
-### Linguagens que estou estudando:
+### Linguagens que estou estudando e logos do Github e Git:
 <img align="center" alt="KAYQUE-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">  
  <img align="center" alt="KAYQUE-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
 <img align="center" alt="KAYQUE-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
