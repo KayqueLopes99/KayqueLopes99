@@ -5,7 +5,7 @@
 - 🎓- Semestre 2023.1
 - 🧠- Futuro engenheiro de software
 - 💻- Apaixonado por tecnologia
-- ⚔️- Desejo futuramente criar jogos
+- ⚔️- Desejo futuramente criar jogos e livros
 - 🏹- Gosto muito de desenhar
 - 🎶- músicas
 
@@ -28,7 +28,7 @@
 
 ##
 
-### As futuras linguagens que pretendo aprender de forma exclusiva:
+### As futuras linguagens que desejo aprender de forma exclusiva:
 
 <img aling="center" alt="KAYQUE-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img aling="center" alt="KAYQUE-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
