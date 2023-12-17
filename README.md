@@ -2,10 +2,10 @@
 
 - 🌱- Sou um estudante de Tecnologia da Informação
 - 🤖- Acadêmico em tecnologia da informação - UFERSA
-- 🎓- Semestre 2023.1
-- 🧠- Futuro engenheiro de software
+- 🎓- Semestre 2023.2
+- 🧠- Futuro engenheiro da software
 - 💻- Apaixonado por tecnologia
-- ⚔️- Desejo futuramente criar jogos e livros
+- ⚔️- Desejo futuramente criar jogos e escrever livros
 - 🏹- Gosto muito de desenhar
 - 🎶- músicas
 
