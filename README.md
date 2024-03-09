@@ -20,8 +20,7 @@
 
 ##
 ### Linguagens que estou estudando e logos do Github e Git:
-<img align="center" alt="KAYQUE-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">  
- <img align="center" alt="KAYQUE-PY" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
+<img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="KAYQUE-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
 <img aling="center" alt="KAYQUE-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img aling="center" alt="KAYQUE-git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
