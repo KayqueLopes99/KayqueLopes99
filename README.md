@@ -1,13 +1,14 @@
-### Olá, sou Kayque um estudante de tecnologia👋
+### Hello, I'm Kayque, a technology student👋
 
-- 🌱- Sou um estudante de Tecnologia da Informação
-- 🤖- Acadêmico em tecnologia da informação - UFERSA
-- 🎓- Semestre 2023.1
-- 🧠- Futuro engenheiro (software) ou (computação)
-- 💻- Apaixonado por tecnologia
-- ⚔️- Desejo futuramente criar jogos e escrever livros
-- 🏹- Gosto muito de desenhar
-- 🎶- músicas
+- 🌱- I'm an Information Technology student
+- 🤖- Academic in Information Technology - UFERSA
+- 🎓- Semester 2023.1
+- 🧠- Future engineer (software)
+- 💻- Passionate about technology
+- ⚔️- I wish to create games and write books in the future
+- 🏹- I really like to draw
+- 🎶- Music
+- 🌱 Pronouns: Him/His
 
 ##
 
@@ -20,7 +21,7 @@
 ##
 ### Linguagens que estou estudando e logos do Github e Git:
 <img align="center" alt="KAYQUE-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">  
- <img align="center" alt="KAYQUE-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
+ <img align="center" alt="KAYQUE-PY" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
 <img align="center" alt="KAYQUE-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
 <img aling="center" alt="KAYQUE-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img aling="center" alt="KAYQUE-git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
