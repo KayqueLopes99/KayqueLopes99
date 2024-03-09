@@ -20,7 +20,7 @@
 
 ##
 ### Linguagens que estou estudando e logos do Github e Git:
-<img align="center" alt="KAYQUE-c" height="30" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
+<img align="center" alt="KAYQUE-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
 <img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img aling="center" alt="KAYQUE-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img aling="center" alt="KAYQUE-git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -30,7 +30,8 @@
 
 ### As futuras linguagens que desejo aprender de forma exclusiva:
 
-<img aling="center" alt="KAYQUE-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img aling="center" alt="KAYQUE-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img aling="center" alt="KAYQUE-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img aling="center" alt="KAYQUE-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+
 
 ##
 
