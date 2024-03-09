@@ -37,7 +37,7 @@
 
 ### Minhas Redes Sociais:
 <div>
-  <a href="https://instagram.com/kayquelopes.2015?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kayque_lopes9?igsh=MXAyNjk0MW9lbmRqaA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaiquelopes.601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   
 </div>
