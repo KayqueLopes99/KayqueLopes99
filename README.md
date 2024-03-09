@@ -18,19 +18,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs=16&theme=dark"/>
 <div>
 
-##
-### Linguagens que estou estudando e logos do Github e Git:
-<img align="center" alt="KAYQUE-c" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">          
-<img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img aling="center" alt="KAYQUE-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img aling="center" alt="KAYQUE-git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+## 👨‍💻 Linguagens em Desenvolvimento
+## Estou atualmente desenvolvendo meu conhecimento e habilidades nas seguintes linguagens de programação:
+
+<img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
+<img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
+<img align="center" alt="KAYQUE-Javasript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">   
+ 
+## Logos do Git e Github
+
+<img align="center" alt="KAYQUE-github" height="60" width="180" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
+<img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/github-original.svg?size=148&color=currentColor=white">   
  </div>
 
 ##
 
-### As futuras linguagens que desejo aprender de forma exclusiva:
+## Estou entusiasmado para expandir meu repertório de programação nas seguintes linguagens de programação:
 
-<img aling="center" alt="KAYQUE-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img aling="center" alt="KAYQUE-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img aling="center" alt="KAYQUE-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<img align="center" alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">   
+<img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
+<img align="center" alt="KAYQUE-Csharp" height="60" width="80" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
 
 
 ##
