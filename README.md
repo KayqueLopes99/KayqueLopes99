@@ -1,5 +1,5 @@
-### Hello, I'm Kayque, a technology student👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
+### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
 - 🌱- I'm an Information Technology student
 - 🤖- Academic in Information Technology - UFERSA
 - 🎓- Semester 2023.1
@@ -20,7 +20,6 @@
 
 ## 👨‍💻 Linguagens em Desenvolvimento
 ## Estou atualmente desenvolvendo meu conhecimento e habilidades nas seguintes linguagens de programação:
-
 <img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Javasript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">   
@@ -35,7 +34,7 @@
 ##
 
 ## Estou entusiasmado para expandir meu repertório de programação nas seguintes linguagens de programação:
-
+<img align="center" alt="KAYQUE-cpp" height="60" width="80" src="https://cdn.simpleicons.org/c++">  
 <img align="center" alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Csharp" height="60" width="80" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
