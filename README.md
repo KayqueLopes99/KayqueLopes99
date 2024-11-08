@@ -2,7 +2,7 @@
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
 - 🌱- I'm an Information Technology student
 - 🤖- Academic in Information Technology - UFERSA
-- 🎓- Semester 2023.1
+- 🎓- Semester 2024.1
 - 🧠- Future engineer (software)
 - 💻- Passionate about technology
 - ⚔️- I wish to create games and write books in the future
@@ -38,6 +38,7 @@
 <img align="center" alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Csharp" height="60" width="80" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
+<img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor"> 
 
 
 ##
