@@ -8,16 +8,25 @@
 - ⚔️- I wish to create games and write books in the future
 - 🏹- I really like to draw
 - 🎶- Music
-- 🌱 Pronouns: Him/His
+- 🌱 I love watching anime and reading manga in my free time.
+
+##
+<img src="https://raw.githubusercontent.com/KayqueLopes99/KayqueLopes99/main/One%20Piece%20Gear%205%20Sticker.gif"
+     alt="One Piece Gear 5"
+     align="right"
+     height="180"
+     style="margin-left: 5px;" />
+<div>
+  <a href="https://beacons.ai/KayqueLopes99">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayqueLopes99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://beacons.ai/KayqueLopes99">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=16&theme=dark&cache_seconds=0" style="margin-top: 20px;" />
+  </a>
+</div>
 
 ##
 
-<div>
-<a href="https://beacons.ai/KayqueLopes99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayqueLopes99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=16&theme=dark&cache_seconds=0"/>
-
-<div>
 
 ## 👨‍💻 Linguagens em Desenvolvimento
 ## Estou atualmente desenvolvendo meu conhecimento e habilidades nas seguintes linguagens de programação:
