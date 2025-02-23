@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)  
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
+
   <img src="https://raw.githubusercontent.com/KayqueLopes99/KayqueLopes99/main/One%20Piece%20Gear%205%20Sticker.gif"
      alt="One Piece Gear 5"
      align="right"
