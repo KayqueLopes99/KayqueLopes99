@@ -24,6 +24,7 @@
 <img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Javasript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">   
+<img align="center" alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
  
 ## Logos do Git e Github
 
@@ -41,6 +42,7 @@
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Csharp" height="60" width="80" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
 <img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor"> 
+<img align="center" alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
 
 
 ##
