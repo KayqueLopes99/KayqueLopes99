@@ -29,8 +29,8 @@
 
 ##
 
-## 👨‍💻 Linguagens em Desenvolvimento
-## Estou atualmente desenvolvendo meu conhecimento e habilidades nas seguintes linguagens de programação:
+## 👨‍💻 Programming Languages in Development
+## I am currently developing my knowledge and skills in the following programming languages:
 <p align="left">
   <img alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
   <img alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
@@ -39,7 +39,7 @@
 </p>
 
 
-## Logos do Git e Github
+## Git and GitHub Logos
 <p align="left">
 <img align="center" alt="KAYQUE-github" height="60" width="180" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
@@ -49,7 +49,7 @@
 
 ##
 
-## Estou entusiasmado para expandir meu repertório de programação nas seguintes linguagens de programação:
+## I am excited to expand my programming repertoire in the following programming languages:
 <p align="left">
 <img align="center" alt="KAYQUE-cpp" height="60" width="80" src="https://cdn.simpleicons.org/c++">  
 <img align="center" alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">   
@@ -61,7 +61,7 @@
 
 ##
 
-### Minhas Redes Sociais:
+### My Social Media:
 <div>
   <a href="https://www.instagram.com/kayque_lopes9?igsh=MXAyNjk0MW9lbmRqaA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaiquelopes.601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
