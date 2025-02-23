@@ -13,6 +13,7 @@
 - 🌱 I love watching anime and reading manga in my free time.
 
 ##
+## 👨‍💻 Programming Languages in Development
 <div>
   <a href="https://beacons.ai/KayqueLopes99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayqueLopes99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -27,9 +28,6 @@
      style="margin-left: 5px;" />
 </div>
 
-##
-
-## 👨‍💻 Programming Languages in Development
 ## I am currently developing my knowledge and skills in the following programming languages:
 <p align="left">
   <img alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
