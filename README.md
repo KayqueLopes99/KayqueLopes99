@@ -1,7 +1,11 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
-
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
+  <img src="https://raw.githubusercontent.com/KayqueLopes99/KayqueLopes99/main/One%20Piece%20Gear%205%20Sticker.gif"
+     alt="One Piece Gear 5"
+     align="right"
+     width="280"
+     height="280"
+     style="margin-left: 5px;" />
 - 🌱- I'm an Information Technology student
 - 🤖- Academic in Information Technology - UFERSA
 - 🎓- Semester 2024.1
@@ -11,7 +15,6 @@
 - 🏹- I really like to draw
 - 🎶- Music
 - 🌱 I love watching anime and reading manga in my free time.
-
 ##
 ## 👨‍💻 Programming Languages in Development
 <div>
@@ -21,11 +24,6 @@
   <a href="https://beacons.ai/KayqueLopes99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=16&theme=dark&cache_seconds=0" style="margin-top: 20px;" />
   </a>
-     <img src="https://raw.githubusercontent.com/KayqueLopes99/KayqueLopes99/main/One%20Piece%20Gear%205%20Sticker.gif"
-     alt="One Piece Gear 5"
-     align="right"
-     height="180"
-     style="margin-left: 5px;" />
 </div>
 
 ## I am currently developing my knowledge and skills in the following programming languages:
