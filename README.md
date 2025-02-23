@@ -1,4 +1,6 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
+
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
 - 🌱- I'm an Information Technology student
 - 🤖- Academic in Information Technology - UFERSA
@@ -27,32 +29,35 @@
 
 ##
 
-
 ## 👨‍💻 Linguagens em Desenvolvimento
 ## Estou atualmente desenvolvendo meu conhecimento e habilidades nas seguintes linguagens de programação:
-<img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
-<img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
-<img align="center" alt="KAYQUE-Javasript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">   
-<img align="center" alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
- 
-## Logos do Git e Github
+<p align="left">
+  <img alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
+  <img alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
+  <img alt="KAYQUE-Javasript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">   
+  <img alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
+</p>
 
+
+## Logos do Git e Github
+<p align="left">
 <img align="center" alt="KAYQUE-github" height="60" width="180" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-github-icon" height="60" width="80" src="https://icongr.am/devicon/github-original.svg?size=148&color=currentColor=white">   
 <img align="center" alt="KAYQUE-vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+</p>
 
 ##
 
 ## Estou entusiasmado para expandir meu repertório de programação nas seguintes linguagens de programação:
+<p align="left">
 <img align="center" alt="KAYQUE-cpp" height="60" width="80" src="https://cdn.simpleicons.org/c++">  
 <img align="center" alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Csharp" height="60" width="80" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
 <img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor"> 
 <img align="center" alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
-
+</p>
 
 ##
 
