@@ -3,12 +3,7 @@
 ---
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
 
-  <img src="https://raw.githubusercontent.com/KayqueLopes99/KayqueLopes99/main/One%20Piece%20Gear%205%20Sticker.gif"
-     alt="One Piece Gear 5"
-     align="right"
-     width="280"
-     height="280"
-     style="margin-left: 5px;" />
+  
 - 🌱- I'm an Information Technology student
 - 🤖- Academic in Information Technology - UFERSA
 - 🎓- Semester 2024.1
