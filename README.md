@@ -14,6 +14,16 @@
 - 🎶- Music
 - 🌱 I love watching anime and reading manga in my free time.
 
+---
+
+## ![Soft Skills](https://img.shields.io/badge/Soft%20Skills-0077B5?style=for-the-badge&logo=none&logoColor=white&width=200) 
+
+|               **Empathy and Kindness**               |              **Teamwork**                |             **Time Management**                |
+|:---------------------------------------------------:|:---------------------------------------:|:------------------------------------------------:|
+|             **Continuous Learning**                |        **Critical Thinking**             |    **Creativity and Innovation**                 |
+|  **Communication and Collaboration**               |                **Adaptability**          |         **Determination and Discipline**         |
+
+
 --- 
 ### 👨‍💻 Programming Languages in Development
 
