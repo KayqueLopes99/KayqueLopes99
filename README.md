@@ -47,12 +47,13 @@
 </p>
 
 ---
-### Git and GitHub Logos
+### **🚀 Git and GitHub - Logos and Tools**  
 <p align="left">
 <img align="center" alt="KAYQUE-github" height="60" width="180" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-github-icon" height="60" width="80" src="https://icongr.am/devicon/github-original.svg?size=148&color=currentColor=white">   
 <img align="center" alt="KAYQUE-vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="KAYQUE-canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">  
 </p>
 
 ---
