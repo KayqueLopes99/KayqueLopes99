@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)  
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=001f3d&textBg=false&fontColor=00A9FF&fontSize=64&section=header&reversal=false"/>
+  
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
+</div>
+
 
 ---
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
@@ -16,12 +23,8 @@
 
 ---
 
-## ![Soft Skills](https://img.shields.io/badge/Soft%20Skills-0077B5?style=for-the-badge&logo=none&logoColor=white&width=200) 
-
-|               **Empathy and Kindness**               |              **Teamwork**                |             **Time Management**                |
-|:---------------------------------------------------:|:---------------------------------------:|:------------------------------------------------:|
-|             **Continuous Learning**                |        **Critical Thinking**             |    **Creativity and Innovation**                 |
-|  **Communication and Collaboration**               |                **Adaptability**          |         **Determination and Discipline**         |
+### 💡 About me 
+- My goal is to develop high-quality projects, enhancing my knowledge in technology, always striving for excellence and innovation. I apply critical thinking and creativity in problem-solving, maintaining a disciplined and efficient approach to time management.
 
 
 --- 
@@ -38,7 +41,7 @@
 </div>
 
 ---
-### I am currently developing my knowledge and skills in the following programming languages:
+### Developing Skills in Programming Languages:
 <p align="left">
   <img alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
   <img alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
@@ -57,14 +60,17 @@
 </p>
 
 ---
-### I am excited to expand my programming repertoire in the following programming languages:
-<p align="left">
-<img align="center" alt="KAYQUE-cpp" height="60" width="80" src="https://cdn.simpleicons.org/c++">  
+### Excited to Expand My Programming Skills In:
+<p align="left"> 
 <img align="center" alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">   
 <img align="center" alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
-<img align="center" alt="KAYQUE-Csharp" height="60" width="80" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor"> 
 <img align="center" alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor"> 
 <img align="center" alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
+<img align="center" alt="Django" height="60" width="60"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
+<img align="center" alt="HTML" height="60" width="80" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
+<img align="center" alt="CSS" height="60" width="80" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor"> 
+<img align="center" alt="JavaScript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor"> </p>
+
 </p>
 
 ---
@@ -85,3 +91,7 @@
 
 ---
 ![Profile Image](https://github.com/KayqueLopes99/KayqueLopes99/blob/main/458208-digital-art-artwork-illustration-pixels-pixelated.jpg)
+
+--- 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=001f3d&textBg=false&fontColor=00A9FF&fontSize=64&section=header&reversal=false"/>
