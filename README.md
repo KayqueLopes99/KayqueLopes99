@@ -3,7 +3,8 @@
   
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&random=false&width=600&lines=Hi+there%2C+I+am+José+Kayque+🤖+👋)](https://git.io/typing-svg)
+
 </div>
 
 
@@ -43,7 +44,8 @@
 ---
 ### Developing Skills in Programming Languages:
 <p align="left">
-  <img alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">  
+  <img alt="KAYQUE-c" height="60" width="80" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor"> 
+  <img alt="KAYQUE-Java" height="60" width="80" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor"> 
   <img alt="KAYQUE-Python" height="60" width="80" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">   
   <img alt="KAYQUE-Javasript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">   
   <img alt="Go Logo" height="60" width="80" src="https://icongr.am/devicon/go-original.svg?size=148&color=currentColor">
@@ -69,7 +71,6 @@
 <img align="center" alt="Django" height="60" width="60"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
 <img align="center" alt="HTML" height="60" width="80" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
 <img align="center" alt="CSS" height="60" width="80" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor"> 
-<img align="center" alt="JavaScript" height="60" width="80" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor"> </p>
 
 </p>
 
