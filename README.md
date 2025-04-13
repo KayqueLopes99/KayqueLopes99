@@ -14,7 +14,7 @@
   
 - 🌱- I'm an Information Technology student
 - 🤖- Academic in Information Technology - UFERSA
-- 🎓- Semester 2024.1
+- 🎓- Semester 2025.1
 - 🧠- Future engineer (software)
 - 💻- Passionate about technology
 - ⚔️- I wish to create games and write books in the future
