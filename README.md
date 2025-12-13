@@ -33,12 +33,13 @@
 
 ---
 <div>
-  <a href="https://beacons.ai/KayqueLopes99">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayqueLopes99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://beacons.ai/KayqueLopes99">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=16&theme=dark&cache_seconds=0" style="margin-top: 20px;" />
-  </a>
+
+![](https://github-readme-stats.vercel.app/api?username=KayqueLopes99&show_icons=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=8&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KayqueLopes99&theme=transparent&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true)
+
 </div>
 
 ---
@@ -52,13 +53,14 @@
 </p>
 
 ---
-### **🚀 Git and GitHub - Logos and Tools**  
+### **🚀 Git and GitHub - Logos and Tools**  
 <p align="left">
 <img align="center" alt="KAYQUE-github" height="60" width="180" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
-<img align="center" alt="KAYQUE-github-icon" height="60" width="80" src="https://icongr.am/devicon/github-original.svg?size=148&color=currentColor=white">   
+<img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
+<img align="center" alt="KAYQUE-github-icon" height="60" width="80" src="https://icongr.am/devicon/github-original.svg?size=148&color=currentColor=white">   
 <img align="center" alt="KAYQUE-vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="KAYQUE-canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">  
+<img align="center" alt="KAYQUE-canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+<img align="center" alt="KAYQUE-figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </p>
 
 ---
@@ -71,6 +73,8 @@
 <img align="center" alt="Django" height="60" width="60"src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
 <img align="center" alt="HTML" height="60" width="80" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
 <img align="center" alt="CSS" height="60" width="80" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor"> 
+<img align="center" alt="SpringBoot" height="60" width="80" src="https://skillicons.dev/icons?i=spring" />
+
 
 </p>
 
