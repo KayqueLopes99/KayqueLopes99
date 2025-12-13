@@ -57,8 +57,10 @@
   <img align="center" alt="KAYQUE-git" height="60" width="80" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">   
   <img align="center" alt="KAYQUE-github-icon" height="60" width="80" src="https://icongr.am/devicon/github-original.svg?size=148&color=currentColor=white">   
   <img align="center" alt="KAYQUE-vscode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  
   <img align="center" alt="KAYQUE-canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="KAYQUE-figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  
+  <img align="center" alt="Figma" height="69" width="80" src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### <h1 align=center> **Excited to Expand My Programming Skills In:**  </h1>
