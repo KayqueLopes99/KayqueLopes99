@@ -50,11 +50,14 @@
   <img alt="KAYQUE-go" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </p>
 
-### <h1 align=center> Database & Analytics: </h1>
+### <h1 align=center> 🗄️ Database & Analytics: </h1>
 <p align="center">
   <img alt="MySQL" height="60" width="60" src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;&nbsp;&nbsp;
   <img alt="PostgreSQL" height="60" width="60" src="https://skillicons.dev/icons?i=postgres" />
+  &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb" />
+  &nbsp;&nbsp;&nbsp;
   <img alt="Power BI" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 </p>
 
