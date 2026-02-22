@@ -50,7 +50,7 @@
   <img alt="KAYQUE-go" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </p>
 
-### <h1 align=center> 🗄️ Database & Analytics: </h1>
+### <h1 align=center> Database & Analytics: </h1>
 <p align="center">
   <img alt="MySQL" height="60" width="60" src="https://skillicons.dev/icons?i=mysql" />
   &nbsp;&nbsp;&nbsp;
