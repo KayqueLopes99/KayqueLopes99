@@ -58,6 +58,8 @@
   &nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongodb" />
   &nbsp;&nbsp;&nbsp;
+  <img alt="SQLite" height="60" width="60" src="https://skillicons.dev/icons?i=sqlite" />
+  &nbsp;&nbsp;&nbsp;
   <img alt="Power BI" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 </p>
 
