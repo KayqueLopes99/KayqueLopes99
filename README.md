@@ -27,7 +27,7 @@
 
 ---
 
-### 💡 About me 
+### <h3 align=center> **💡 About me** </h1> 
 - My goal is to develop high-quality projects, enhancing my knowledge in technology, always striving for excellence and innovation. I apply creativity in problem-solving, maintaining a disciplined and efficient approach to time management.
 - This repository is a box of surprises where the magic of information technology happens in every line of code written.
 
