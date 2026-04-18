@@ -8,6 +8,9 @@
 </div>
 
 ---
+
+<img src="./cubo.png" width="360px" align="right" />
+
 ### Hello, I'm Kayque Lopes, a technology student and this is my GitHub profile.👋
 
 - 🌱- I'm an Information Technology student
@@ -19,6 +22,8 @@
 - 🏹- I really like to draw
 - 🎶- Music
 - 🌱 I love watching anime and reading manga in my free time.
+
+<br clear="right">
 
 ---
 
