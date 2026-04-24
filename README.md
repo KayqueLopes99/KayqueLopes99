@@ -36,9 +36,9 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=KayqueLopes99&show_icons=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=8&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KayqueLopes99&theme=transparent&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueLopes99&layout=compact&langs_count=10&bg_color=000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true)
 
 </div>
 
