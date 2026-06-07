@@ -75,6 +75,7 @@
   <img alt="Markdown" height="50" src="https://skillicons.dev/icons?i=md" /> 
   <img alt="KAYQUE-canva" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img alt="Figma" height="50" src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://i.icoziv.workers.dev/icons?i=aws" alt="Skills" />
 </p>
 
 ### <h1 align=center> **Excited to Expand My Programming Skills In:** </h1>
@@ -90,21 +91,21 @@
   <img alt="SpringBoot" height="50" src="https://skillicons.dev/icons?i=spring" />
   <img alt="Docker" height="50" src="https://skillicons.dev/icons?i=docker" />
   <img alt="React" height="50" src="https://skillicons.dev/icons?i=react" />
-  <img alt="Tailwind" height="50" src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
 ### <h1 align=center> **🌐 Contacts:** </h1>
+
 <div align="center">
-  <a href="https://www.instagram.com/kayque_lopes9?igsh=MXAyNjk0MW9lbmRqaA%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35">
+  <a href="https://www.instagram.com/kayque_lima5?igsh=MXAyNjk0MW9lbmRqaA%3D%3D" target="_blank">
+    <img src="https://i.icoziv.workers.dev/icons?i=instagram" height="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:kaiquelopes.601@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  <a href="mailto:kaiquelopes.601@gmail.com" target="_blank">
+    <img src="https://i.icoziv.workers.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/josé-kayque-lima-lopes-66b357291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+    <img src="https://i.icoziv.workers.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
 </div>
 
